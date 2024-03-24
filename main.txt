@@ -1,4 +1,2 @@
 Hi This is a practise session of git
 just work on git.
-Thsi is another line of code
-this is line from sunrepo
